@@ -1,5 +1,5 @@
 
-#git commonds new
+#git commonds new My name is Tukaram
 # git status  : check dir status
 # git add .   : add file to staging
 # git commit -m 'comment'   : add file to tracking
