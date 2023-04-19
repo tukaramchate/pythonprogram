@@ -1,9 +1,9 @@
 
-#git commonds
+#git commonds new My name is Tukaram
 # git status  : check dir status
 # git add .   : add file to staging
 # git commit -m 'comment'   : add file to tracking
-# git push -u  origin master : upload files to git
+# git push -u  origin master/ dir name : upload files to git
 
 
 
