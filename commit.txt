@@ -1,0 +1,9 @@
+
+git status
+git add .
+git status
+git commit -m 'write the our comment'
+git status
+git push -u origin (name branch)
+git checkout master
+git status
