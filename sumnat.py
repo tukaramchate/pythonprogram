@@ -2,8 +2,8 @@
 num = int(input("Enter the number : "))
 print(num)
 for i in range(num):
-    number = num + 1
-    print(number)   
+    num= num + i
+    print(num)   
     
 """
   
